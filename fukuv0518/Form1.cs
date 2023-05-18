@@ -9,7 +9,7 @@ namespace fukuv0518
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "‰Ú–¼";
+            button1.Text = "å‚–¼";
         }
 
         private void button2_Click(object sender, EventArgs e)
